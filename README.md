@@ -16,15 +16,12 @@
     
     Use of typescript;
 
-    baseUrl command created in the tsconfig file to facilitate typing 
-    the paths for importing components;
+    baseUrl command created in the tsconfig file to facilitate typing  the paths for importing components;
 
-    Use the public folder to leave the images to be able to do the 
-    imports dynamically and facilitate the generation of a build 
-    that real works;
+    Use the public folder to leave the images to be able to do the  imports dynamically and facilitate the
+    generation of a build that real works;
 
-    classNames package to facilitate dynamically switching 
-    sessions classes; 
+    classNames package to facilitate dynamically switching sessions classes; 
 
     React Icon;
 
