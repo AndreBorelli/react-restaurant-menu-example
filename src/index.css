@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Italiana&display=swap');
+/* 
+====== 
+Variables 
+======
+*/
+:root {
+  --clr-andre-submit-button: #06d11b;
+   --clr-andre-blue: #3d5a89;
+   --clr-andre-grey: #b3b8c0;
+   --clr-andre-transparent-grey: rgba(179,184,192, 0.7);
+   --clr-andre-transparent-blue: rgba(61,90,137, 0.7);
+   --clr-andre-white: #fbfdff;
+   --clr-andre-transparent-grey-shadow:0 1px 3px rgba(179,184,192, 0.2);
+   --clr-andre-transparent-blue-shadow:0 1px 3px rgba(61,90,137, 0.2);
+   --clr-andre-submit-button: #06d11b;
+ 
+   --bcg-andre-right: linear-gradient( to right, #3d5a89  , #b3b8c0 );
+}
+
+
+body {
+  background-color: var(--clr-andre-blue);
+  color: var(--clr-andre-white);
+}
+
+* {
+  box-sizing: border-box;
+  font-family: 'Italiana', serif;
+}
